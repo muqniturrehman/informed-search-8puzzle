@@ -108,8 +108,8 @@ Step N:
 Ensure Python 3 is installed. Run the desired file:
 
 ```bash
-python lab-2_BFS.py     # Best First Search
-python lab-2_A_str.py   # A* Search
+BFS.py     # Best First Search
+A_str.py   # A* Search
 ```
 
 ## Author
